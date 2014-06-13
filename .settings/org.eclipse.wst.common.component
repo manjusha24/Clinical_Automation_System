@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project-modules id="moduleCoreId" project-version="1.5.0">
-    <wb-module deploy-name="Clinical_Automation_System">
-        <wb-resource deploy-path="/" source-path="/WebContent"/>
-        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
-        <property name="context-root" value="Clinical_Automation_System"/>
-        <property name="java-output-path" value="/Clinical_Automation_System/build/classes"/>
-    </wb-module>
-</project-modules>
